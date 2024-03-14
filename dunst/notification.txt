@@ -1,0 +1,141 @@
+Chromium notification
+Summary: Johannes Johansson (External)
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+hekko 
+icon: /tmp/.org.chromium.Chromium.GaZubN
+urgency: NORMAL
+Chromium notification
+Summary: Johannes Johansson (External)
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+hello 
+icon: /tmp/.org.chromium.Chromium.oh044U
+urgency: NORMAL
+Chromium notification
+Summary: Johannes Johansson (External)
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+hejj 
+icon: /tmp/.org.chromium.Chromium.JO865l
+urgency: NORMAL
+Firefox Developer Edition notification
+Summary: Mattias Malmborg
+body: vi skulle kunna testa googles delning om inte teams fungerar just nu 
+icon: dialog-information
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+icon: /tmp/.org.chromium.Chromium.eLuO15
+urgency: NORMAL
+Chromium notification
+Summary: 
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Downloading...
+icon: /tmp/.org.chromium.Chromium.xGDkaa
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+på ingång? 
+icon: /tmp/.org.chromium.Chromium.A2cRJQ
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+icon: /tmp/.org.chromium.Chromium.1LafJt
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+tanken är att vi har en egen metadata-typ som heter "WRGSPerson"     Filen som heter …
+icon: /tmp/.org.chromium.Chromium.MlVa8u
+urgency: NORMAL
+Chromium notification
+Summary: 
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Downloading...
+icon: /tmp/.org.chromium.Chromium.hiR0Dd
+urgency: NORMAL
+Chromium notification
+Summary: Nice job! Notifications are now on.
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Change this at any time from your browser's permissions settings. To fine tune your alerts in Teams, select profile picture &gt; Settings.
+icon: /tmp/.org.chromium.Chromium.Cf6B2H
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg assigned you a task
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+RODA backlog &gt; General
+icon: /tmp/.org.chromium.Chromium.aWAqzP
+urgency: NORMAL
+Chromium notification
+Summary: 
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+You've shared uuid-DB26C194-09AF-43BC-ACCB-EDC69F3576F2.zip
+icon: /tmp/.org.chromium.Chromium.uVj6SR
+urgency: NORMAL
+Chromium notification
+Summary: 
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+You've shared uuid-50B5086C-1320-4539-8686-D1FC4FAA57CD.zip
+icon: /tmp/.org.chromium.Chromium.QdWojm
+urgency: NORMAL
+Chromium notification
+Summary: Filiph Schaaf
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Ja men boka ett möte så kan vi bolla lite 🙂 
+icon: /tmp/.org.chromium.Chromium.j2pM0J
+urgency: NORMAL
+Chromium notification
+Summary: 
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+You've shared commons-ip_script.sh
+icon: /tmp/.org.chromium.Chromium.23UoYT
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+If you are using the commons-ip CLI you should set the --metadata-type=wrgs_person an…
+icon: /tmp/.org.chromium.Chromium.H2EnMH
+urgency: NORMAL
+Chromium notification
+Summary: Filiph Schaaf
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+ping 
+icon: /tmp/.org.chromium.Chromium.6zEoaw
+urgency: NORMAL
+Chromium notification
+Summary: Nice job! Notifications are now on.
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Change this at any time from your browser's permissions settings. To fine tune your alerts in Teams, select profile picture &gt; Settings.
+icon: /tmp/.org.chromium.Chromium.qLy9Lf
+urgency: NORMAL
+Chromium notification
+Summary: Nice job! Notifications are now on.
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Change this at any time from your browser's permissions settings. To fine tune your alerts in Teams, select profile picture &gt; Settings.
+icon: /tmp/.org.chromium.Chromium.RnAXyi
+urgency: NORMAL
+Chromium notification
+Summary: Johansson, Johannes (External)
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+ping 
+icon: /tmp/.org.chromium.Chromium.DVOFcu
+urgency: NORMAL
