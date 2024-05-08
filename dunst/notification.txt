@@ -139,3 +139,216 @@ body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
 ping 
 icon: /tmp/.org.chromium.Chromium.DVOFcu
 urgency: NORMAL
+Chromium notification
+Summary: Johansson, Johannes (External)
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+ping 
+icon: /tmp/.org.chromium.Chromium.K4x5lq
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg removed you from a task
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+RODA backlog &gt; General
+icon: /tmp/.org.chromium.Chromium.3d9GUe
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+icon: /tmp/.org.chromium.Chromium.ndG8Ar
+urgency: NORMAL
+Chromium notification
+Summary: 
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Downloading...
+icon: /tmp/.org.chromium.Chromium.Wa7oDl
+urgency: NORMAL
+Chromium notification
+Summary: 
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+You've shared uuid-656F648B-0EA6-4A57-A5C4-D652EF0B8D1B.zip
+icon: /tmp/.org.chromium.Chromium.nQPHRW
+urgency: NORMAL
+Chromium notification
+Summary: 
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+You've shared uuid-054AA8BD-FA77-46E3-B9D2-73DBC321C8E1.zip
+icon: /tmp/.org.chromium.Chromium.7FUEwq
+urgency: NORMAL
+Chromium notification
+Summary: 
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+You've shared uuid-517B3B2C-F836-40C4-8F40-25D90CE0A1A8.zip
+icon: /tmp/.org.chromium.Chromium.qqtQqo
+urgency: NORMAL
+Chromium notification
+Summary: 
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+You've shared uuid-F3D33C29-1188-45D6-A924-A4E067EC342B.zip
+icon: /tmp/.org.chromium.Chromium.G3ilWj
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+God morgon!   Skickade ett mail till dig med den dokumentationen som Sonny har gjort …
+icon: /tmp/.org.chromium.Chromium.RjIk0l
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg assigned you a task
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+RODA backlog &gt; General
+icon: /tmp/.org.chromium.Chromium.AY5s9c
+urgency: NORMAL
+Chromium notification
+Summary: Filiph Schaaf
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Tjena, kan kika om kanske ca 30 min om det funkar för dig? 🙂 
+icon: /tmp/.org.chromium.Chromium.nlApWj
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+icon: /tmp/.org.chromium.Chromium.ivTRHn
+urgency: NORMAL
+Chromium notification
+Summary: Sonny Andersson
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Hej Johannes!  Här är den, något gömd...      Tveka inte att höra av dig om du tror j…
+icon: /tmp/.org.chromium.Chromium.RaCYhx
+urgency: NORMAL
+Chromium notification
+Summary: Sonny Andersson
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+OK. Vilket roda-system kör du mot? 
+icon: /tmp/.org.chromium.Chromium.z9DA81
+urgency: NORMAL
+Chromium notification
+Summary: Sonny Andersson
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Jag kommer inte åt den - har den nått generellt problem? 
+icon: /tmp/.org.chromium.Chromium.2Drmty
+urgency: NORMAL
+Chromium notification
+Summary: Sonny Andersson
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+        
+icon: /tmp/.org.chromium.Chromium.cm7nqu
+urgency: NORMAL
+Chromium notification
+Summary: Sonny Andersson
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Vad jag skickar har jag dokumenterat exempel på. I Excel-demon så hämtas AIPer med sa…
+icon: /tmp/.org.chromium.Chromium.ggdrIF
+urgency: NORMAL
+Chromium notification
+Summary: Sonny Andersson
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Eller så kan jag ev titta in på kontoret en kortare sväng efter lunch om du är där? 
+icon: /tmp/.org.chromium.Chromium.5vouUZ
+urgency: NORMAL
+Chromium notification
+Summary: Sonny Andersson
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Ok, försöker komma loss e 13. Vi ses 
+icon: /tmp/.org.chromium.Chromium.4lIJs4
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Tja, yes. Hoppas allt går bra. Ses på onsdag! 
+icon: /tmp/.org.chromium.Chromium.CrXt7f
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+.\build.ps1 : File C:\temp\Commons JAVA\build.ps1 cannot be loaded. The file C:\temp\…
+icon: /tmp/.org.chromium.Chromium.HchOTW
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+ah okej, ska testa då 
+icon: /tmp/.org.chromium.Chromium.UvYNgD
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg marked your task In progress
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+RODA backlog &gt; General
+icon: /tmp/.org.chromium.Chromium.BknXZT
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg marked your task In progress
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+RODA backlog &gt; General
+icon: /tmp/.org.chromium.Chromium.I9BqT7
+urgency: NORMAL
+Chromium notification
+Summary: Nice job! Notifications are now on.
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Change this at any time from your browser's permissions settings. To fine tune your alerts in Teams, select profile picture &gt; Settings.
+icon: /tmp/.org.chromium.Chromium.w2He0p
+urgency: NORMAL
+Chromium notification
+Summary: Nice job! Notifications are now on.
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Change this at any time from your browser's permissions settings. To fine tune your alerts in Teams, select profile picture &gt; Settings.
+icon: /tmp/.org.chromium.Chromium.1tCrTG
+urgency: NORMAL
+Chromium notification
+Summary: Nice job! Notifications are now on.
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Change this at any time from your browser's permissions settings. To fine tune your alerts in Teams, select profile picture &gt; Settings.
+icon: /tmp/.org.chromium.Chromium.1JyEZg
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Sorry var fast i mötet, men ja kör på 🙂
+icon: /tmp/.org.chromium.Chromium.RYpmrE
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+hojta om vi ska kolla på nått över teams
+icon: /tmp/.org.chromium.Chromium.Hf6ZC8
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+hej, absolut
+icon: /tmp/.org.chromium.Chromium.O25FZG
+urgency: NORMAL
+Chromium notification
+Summary: Mattias Malmborg
+body: <a href="https://teams.microsoft.com/">teams.microsoft.com</a>
+
+Nej inte egentligen. Men om man gör riktade ansökningar så är det inte fel att ha den kort och specifik
+icon: /tmp/.org.chromium.Chromium.sngEXn
+urgency: NORMAL
